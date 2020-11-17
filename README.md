@@ -11,5 +11,6 @@ simulate the methods of Math class found in JDK
 ## Connect me via 
 1. [Facebook](https://www.facebook.com/profile.php?id=100036569711926)
 2. [Email](mailto:huyv46@gmail.com)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 #### © 2020 by me
