@@ -9,7 +9,7 @@ simulate the methods of Math class found in JDK
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via 
-[Facebook](https://www.facebook.com/profile.php?id=100036569711926)
-[Email](mailto:huyv46@gmail.com)
+1. [Facebook](https://www.facebook.com/profile.php?id=100036569711926)
+2. [Email](mailto:huyv46@gmail.com)
 
 #### © 2020 by me
