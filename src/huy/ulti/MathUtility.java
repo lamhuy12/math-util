@@ -18,7 +18,7 @@ public class MathUtility {
     public static final double PI = 3.1415;
     
     //hàm tính n! = 1.2.3..n!
-    //n! tăng nhanh nên ình chỉ tính 20! tối đa, 21! tràn long
+    //n! tăng nhanh nên mình chỉ tính 20! tối đa, 21! tràn long
     //0! = 1! = 1, quy ước
     // không có âm giai thừa, nếu tham số n là âm, mình chửi, ném về Exception
     public static long getFactorial(int n) {
